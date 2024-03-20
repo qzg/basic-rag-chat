@@ -1,0 +1,14 @@
+
+###############
+### Globals ###
+###############
+
+# global lang_dict
+# global rails_dict
+# global session
+# global embedding
+# global vectorstore
+# global retriever
+# global model
+# global chat_history
+# global memory
