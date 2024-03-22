@@ -1,5 +1,5 @@
 import streamlit as st
-import providers.azure_openai as provider
+import providers.openai as provider
 
 # Cache OpenAI Embedding for future runs
 @st.cache_resource(show_spinner=st.session_state.lang_dict.get('load_embedding', 'Loading Embedding'))
